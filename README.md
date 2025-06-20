@@ -16,7 +16,6 @@
 </ul>
 <p>El sector turístico es uno de los más grandes y dinámicos a nivel global. Millones de personas planifican viajes anualmente, y la necesidad de herramientas que optimicen este proceso es cada vez mayor. Una solución que simplifique agilice y personalice la planificación de viajes tiene el potencial de mejorar significativamente la experiencia del usuario, ahorrándole tiempo valioso y reduciendo la fricción asociada a esta tarea.</p>
 <h2 id="desarrollo-de-la-propuesta-de-solución-un-asistente-de-viajes-impulsado-por-ia.">Desarrollo de la propuesta de solución: Un asistente de viajes impulsado por IA.</h2>
-<p>&lt;![endif]–&gt;</p>
 <p>La propuesta de solución se centra en el desarrollo de un <strong>Asistente de Viajes con IA</strong>, que actúe como un punto único de información y planificación. La clave de esta solución radica en la <strong>aplicación de modelos de Lenguaje Grande (LLMs)</strong> mediante técnicas de Prompt Engineering para interpretar las necesidades del usuario, procesar grandes cantidades de información y generar guías de viaje personalizadas y completas.</p>
 <p>La solución se vinculará directamente al desarrollo de modelos de IA de la siguiente manera:</p>
 <ul>
